@@ -1,7 +1,10 @@
 # class_resources
 
+## Slider
+- [session-1](class-1)
 
-# Class Link
+
+## Class Link
 
 - [Session-1](https://youtu.be/sFbWsIzTfAQ)
 - [Session-2](https://youtu.be/LS0Czr4ezg4)
