@@ -1,8 +1,24 @@
 # class_resources
 
 ## Slider
-- [session-1](class-1)
 
+- [Session-1](class-1)
+- [Session-2](class-2)
+- [Session-3](class-3)
+- [Session-4](session-4)
+- [Session-5](session-5)
+- [Session-6](session-6)
+- [Session-7](session-7)
+- [Session-8](session-8)
+- [Session-9](session-9)
+- [Session-10](session-10)
+- [Session-11](session-11)
+- [Session-12](session-12)
+- [Session-13](session-13)
+- [Session-14](session-14)
+- [Session-15](session-15)
+- [Session-16](session-16)
+- [Bonus-Session](bonus_session-02)
 
 ## Class Link
 
